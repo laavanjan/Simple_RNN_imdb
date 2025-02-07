@@ -48,3 +48,23 @@ if st.button('Classify'):
 else:
     st.write('Please enter a movie review.')
 
+custom_footer = """
+    <style>
+    .footer {
+        position: scroll;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        text-align: center;
+        padding: 10px;
+        font-size: 14px;
+        color: white;
+        border:2px solid white;
+        border-radius:10px;
+    }
+    </style>
+    <div class="footer">
+        Developed by <b>Laavanjan</b> | © Faculty of IT B22
+    </div>
+"""
+st.markdown(custom_footer, unsafe_allow_html=True)
