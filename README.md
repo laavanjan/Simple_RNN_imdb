@@ -11,6 +11,7 @@ This project implements a simple RNN model to perform sentiment analysis on IMDB
 - **TensorFlow/Keras**: For building and training the RNN model.
 - **Pandas & NumPy**: For data processing and manipulation.
 - **Streamlit**: For creating an interactive web application.
+- **Jupyter Notebook**: For interactive and flexible environment.
 
 ## 🌐 Live Demo
 
