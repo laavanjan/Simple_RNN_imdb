@@ -14,7 +14,7 @@ This project implements a simple RNN model to perform sentiment analysis on IMDB
 
 ## 🌐 Live Demo
 
-Try the live demo here: **[Live App](https://your-live-demo-link.com)**
+Try the live demo here: **[Live App](https://simplernnimdb-9q33sxitgxu8efbsvwmhc2.streamlit.app/)**
 
 ## 📂 Project Structure
 
